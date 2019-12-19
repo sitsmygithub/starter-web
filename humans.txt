@@ -26,3 +26,5 @@ modified for git rebase
 modified for the git rebase conflict handling
 
 modified second time to get conflict
+
+modified for tag
