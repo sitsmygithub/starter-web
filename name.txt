@@ -1,7 +1,4 @@
 modified on head branch to verify something
 
-<<<<<<< HEAD
-modified after git rebase............
-=======
-add name Rajagopal Srinivasan
->>>>>>> feb2020rel
+
+git tag
