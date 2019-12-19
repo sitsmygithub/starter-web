@@ -20,3 +20,4 @@ new technology
 
 modified humans.txt from master branch
 
+modified for git rebase
