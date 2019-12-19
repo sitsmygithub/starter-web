@@ -14,3 +14,5 @@
     HTML5, CSS3
     jQuery, Modernizr
     angular, golang
+	
+new technology
