@@ -21,3 +21,6 @@ new technology
 modified humans.txt from master branch
 
 modified for git rebase
+
+
+modified for the git rebase conflict handling
